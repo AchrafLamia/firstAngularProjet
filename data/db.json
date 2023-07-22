@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Computer",
+      "price": 4500,
+      "checked": false
+    },
+    {
+      "name": "LCD",
+      "price": "1000",
+      "checked": false,
+      "id": 2
+    },
+    {
+      "name": "PHONE",
+      "price": "10200",
+      "checked": false,
+      "id": 3
+    }
+  ]
+}
